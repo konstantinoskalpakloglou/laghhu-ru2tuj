@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "vue": "2.6.10",
+    "vue": "3.0.0",
     "@progress/kendo-vue-grid": "0.3.4",
     "@progress/kendo-drawing": "1.5.12",
     "@progress/kendo-vue-intl": "0.3.4",
